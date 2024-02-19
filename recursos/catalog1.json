@@ -1,26 +1,26 @@
 [
     {
       "name": "Jägermeister",
-      "image_url": "https://raw.githubusercontent.com/RubenPallin/DesarrolloInterfaces/main/recursos/"
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Jagermeister.jpg"
     },
     {
       "name": "Absolut",
-      "image_url": "https://raw.githubusercontent.com/RubenPallin/DesarrolloInterfaces/main/recursos/"
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Absolut.jpg"
     },
     {
       "name": "Johnnie Walker Red Label",
-      "image_url": "https://raw.githubusercontent.com/RubenPallin/DesarrolloInterfaces/main/recursos/"
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Red_label.jpg"
     },
     {
       "name": "Tanduay",
-      "image_url": "https://raw.githubusercontent.com/RubenPallin/DesarrolloInterfaces/main/recursos/"
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Tanduay.jpg"
     },
     {
       "name": "Bacardi Limón",
-      "image_url": "https://raw.githubusercontent.com/RubenPallin/DesarrolloInterfaces/main/recursos/"
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Bacardi.jpg"
     },
      {
       "name": "Smirnoff",
-      "image_url": "https://raw.githubusercontent.com/RubenPallin/DesarrolloInterfaces/main/recursos/"
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Smirnoff.jpg"
     }
   ]
