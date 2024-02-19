@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Jack Daniels",
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Jack_daniels.jpg"
+    },
+    {
+      "name": "Tequila",
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Tequila.jpg"
+    },
+    {
+      "name": "Beefeater",
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Beefeater.jpg"
+    },
+    {
+      "name": "Larios",
+      "image_url": " https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Larios.jpg"
+    },
+    {
+      "name": "Jägermeister",
+      "image_url": "https://raw.githubusercontent.com/RubenPallin/sprint1apache/main/recursos/Jagermeister.jpg"
+    }
+  ]
